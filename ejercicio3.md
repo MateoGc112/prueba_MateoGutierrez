@@ -19,7 +19,8 @@ git merge primera
 - Creamos la rama "segunda" y nos posicionamos en ella. He modificado en esta rama el fichero1.  
 ![ej 3](imgej1/contenidop4.png)
 
-- He dejado el commit hecho
+- He dejado el commit hecho  
+
 ![ej 3](imgej1/ejercicio3p4.png)
 
 - Para este paso. Lo primero es cambiar a tu rama **master** y hacer un pull. Ahora que master está actualizado (Aunque lo esté, siempre viene bien hacer un pull antes de empezar) hay que hacer el merge de **segunda** si el merge es exitoso sale (en este caso) ``` fichero.txt 1 + | 1 file changed ``` Con lo cual se han juntado y actualizado, ahora master y segunda se encuentran a la par.
